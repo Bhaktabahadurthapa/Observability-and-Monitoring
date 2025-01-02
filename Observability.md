@@ -6,7 +6,9 @@ Observability is the ability to understand the internal state of a system by ana
 
 <img width="725" alt="image" src="https://github.com/user-attachments/assets/8b0b7dbe-ced2-47f0-950c-58e63070a0de" />
 
-# The Three Pillars of Observability ( Monitoring (Metrics), Logging (Logs) and Tracing (Traces) )
+# The Three Pillars of Observability 
+##  Monitoring (Metrics), Logging (Logs) and Tracing (Traces) 
+
 ## 1. Monitoring (Metrics)
 Monitoring involves tracking system metrics that indicate the health and performance of your system. It answers the question: "What is happening?"
 
