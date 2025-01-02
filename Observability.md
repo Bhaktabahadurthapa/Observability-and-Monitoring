@@ -1,4 +1,4 @@
-## What is Observability?
+# What is Observability?
 
 Observability is the ability to understand the internal state of a system by analyzing the data it produces. It enables teams to effectively troubleshoot issues, optimize performance, and maintain system reliability. The three pillars of observability are metrics, logs, and traces.
 
@@ -6,8 +6,8 @@ Observability is the ability to understand the internal state of a system by ana
 
 <img width="725" alt="image" src="https://github.com/user-attachments/assets/8b0b7dbe-ced2-47f0-950c-58e63070a0de" />
 
-## The Three Pillars of Observability
-# 1. Monitoring (Metrics)
+# The Three Pillars of Observability
+## 1. Monitoring (Metrics)
 Monitoring involves tracking system metrics that indicate the health and performance of your system. It answers the question: "What is happening?"
 
 Key aspects include:
