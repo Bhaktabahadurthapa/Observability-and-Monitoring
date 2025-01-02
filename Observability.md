@@ -47,7 +47,8 @@ Latency analysis at each service hop
 Common tools: Jaeger, Zipkin, OpenTelemetry
 
 # DevOps Observability Cycle
-![image](https://github.com/user-attachments/assets/4665b4da-346b-4b62-835b-7ee83b7f8f0a)
+<img width="438" alt="image" src="https://github.com/user-attachments/assets/f8fbf923-e114-4baf-b17a-954c703c4926" />
+
 
 
 
