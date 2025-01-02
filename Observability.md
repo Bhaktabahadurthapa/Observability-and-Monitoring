@@ -21,3 +21,27 @@ Alert generation based on predefined thresholds
 Visualization through dashboards and charts
 ```
 Common tools: Prometheus, Grafana, Datadog
+
+## 2. Logging (Logs)
+Logging involves collecting detailed records of events that occur within your system. It answers the question: "Why is it happening?"
+Key aspects include:
+```
+Structured log collection from all system components
+Error and exception tracking
+Authentication and authorization events
+Application state changes
+Debug information for troubleshooting
+```
+Common tools: ELK Stack (Elasticsearch, Logstash, Kibana), Splunk
+
+## 3. Tracing (Traces)
+Tracing follows the journey of requests as they flow through different services and components. It answers the question: "How is it happening?"
+Key aspects include:
+```
+Distributed tracing across microservices
+Performance bottleneck identification
+Service dependency mapping
+End-to-end request flow visualization
+Latency analysis at each service hop
+```
+Common tools: Jaeger, Zipkin, OpenTelemetry
