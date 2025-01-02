@@ -45,3 +45,9 @@ End-to-end request flow visualization
 Latency analysis at each service hop
 ```
 Common tools: Jaeger, Zipkin, OpenTelemetry
+
+# DevOps Observability Cycle
+![image](https://github.com/user-attachments/assets/a46e6b08-96ee-41ae-97ba-aa126c2cb8b3)
+
+
+
